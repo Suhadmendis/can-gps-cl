@@ -52,15 +52,15 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <!-- <li><a href="#about">About</a></li> -->
           <li><a href="#speakers">Speakers</a></li>
-          <li><a href="#schedule">Schedule</a></li>
+         <!--  <li><a href="#schedule">Schedule</a></li>
           <li><a href="#venue">Venue</a></li>
           <li><a href="#hotels">Hotels</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
+          <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li> -->
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -105,10 +105,8 @@
       </div>
     </section>
 
-    <!--==========================
-      Speakers Section
-    ============================-->
-    <section id="speakers" class="wow fadeInUp">
+    
+<!--     <section id="speakers" class="wow fadeInUp">
       <div class="container">
         <div class="section-header">
           <h2>Event Speakers</h2>
@@ -208,13 +206,10 @@
           </div>
         </div>
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Schedule Section
-    ============================-->
-    <section id="schedule" class="section-with-bg">
+    
+<!--     <section id="schedule" class="section-with-bg">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>Event Schedule</h2>
@@ -238,7 +233,7 @@
 
         <div class="tab-content row justify-content-center">
 
-          <!-- Schdule Day 1 -->
+          
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
@@ -316,9 +311,9 @@
             </div>
 
           </div>
-          <!-- End Schdule Day 1 -->
+          
 
-          <!-- Schdule Day 2 -->
+          
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
 
             <div class="row schedule-item">
@@ -388,9 +383,9 @@
             </div>
 
           </div>
-          <!-- End Schdule Day 2 -->
+          
 
-          <!-- Schdule Day 3 -->
+          
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
             <div class="row schedule-item">
@@ -460,18 +455,15 @@
             </div>
 
           </div>
-          <!-- End Schdule Day 2 -->
+          
 
         </div>
 
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Venue Section
-    ============================-->
-    <section id="venue" class="wow fadeInUp">
+    
+<!--     <section id="venue" class="wow fadeInUp">
 
       <div class="container-fluid">
 
@@ -566,13 +558,10 @@
 
         </div>
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Hotels Section
-    ============================-->
-    <section id="hotels" class="section-with-bg wow fadeInUp">
+    
+<!--     <section id="hotels" class="section-with-bg wow fadeInUp">
 
       <div class="container">
         <div class="section-header">
@@ -634,13 +623,10 @@
 
         </div>
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Gallery Section
-    ============================-->
-    <section id="gallery" class="wow fadeInUp">
+    
+<!--     <section id="gallery" class="wow fadeInUp">
 
       <div class="container">
         <div class="section-header">
@@ -659,13 +645,10 @@
         <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
         <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Sponsors Section
-    ============================-->
-    <section id="supporters" class="section-with-bg wow fadeInUp">
+    
+<!--     <section id="supporters" class="section-with-bg wow fadeInUp">
 
       <div class="container">
         <div class="section-header">
@@ -725,13 +708,10 @@
         </div>
 
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      F.A.Q Section
-    ============================-->
-    <section id="faq" class="wow fadeInUp">
+    
+<!--     <section id="faq" class="wow fadeInUp">
 
       <div class="container">
 
@@ -802,13 +782,10 @@
         </div>
 
       </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Subscribe Section
-    ============================-->
-    <section id="subscribe">
+    
+<!--     <section id="subscribe">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>Newsletter</h2>
@@ -827,12 +804,10 @@
         </form>
 
       </div>
-    </section>
+    </section> -->
 
-    <!--==========================
-      Buy Ticket Section
-    ============================-->
-    <section id="buy-tickets" class="section-with-bg wow fadeInUp">
+    
+<!--     <section id="buy-tickets" class="section-with-bg wow fadeInUp">
       <div class="container">
 
         <div class="section-header">
@@ -883,7 +858,7 @@
               </div>
             </div>
           </div>
-          <!-- Pro Tier -->
+          
           <div class="col-lg-4">
             <div class="card">
               <div class="card-body">
@@ -910,7 +885,7 @@
 
       </div>
 
-      <!-- Modal Order Form -->
+      
       <div id="buy-ticket-modal" class="modal fade">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -941,16 +916,13 @@
                 </div>
               </form>
             </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
+          </div>
+        </div>
+      </div>
+    </section> -->
 
-    </section>
-
-    <!--==========================
-      Contact Section
-    ============================-->
-    <section id="contact" class="section-bg wow fadeInUp">
+    
+<!--     <section id="contact" class="section-bg wow fadeInUp">
 
       <div class="container">
 
@@ -1014,14 +986,12 @@
         </div>
 
       </div>
-    </section><!-- #contact -->
+    </section> -->
 
   </main>
 
 
-  <!--==========================
-    Footer
-  ============================-->
+  
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
@@ -1080,19 +1050,15 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
+      <!--   &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved -->
       </div>
       <div class="credits">
-        <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
-        -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        
+         
+        Designed by <a href="http://infodatasl.com/">Infodata Computer Systems</a>
       </div>
     </div>
-  </footer><!-- #footer -->
+  </footer>
 
   <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
